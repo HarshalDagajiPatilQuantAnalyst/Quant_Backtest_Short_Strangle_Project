@@ -1,2 +1,25 @@
-# Quant_Backtest_Short_Strangle_Project
-Add a brief summary (e.g., "Modular backtest of 09:20 AM Short Strangle strategy on Banknifty for 2023").
+#  Quantitative Trading Case Study: 09:20 AM Short Strangle Strategy
+
+This project contains the complete backtest for the 09:20 AM Short Strangle Strategy, developed as a case study submission.
+
+##  Goal
+To implement a robust, auditable backtest of a short options strategy on [Index Name] for the year 2023, focusing on disciplined risk management (50% stop-loss) and clear reporting.
+
+##  Project Structure
+
+- **`backtest_python_code.py`**: The core strategy execution engine. It's written in a modular format (functions for data processing, signal generation, trade management, and reporting).
+- **`Harshal_Quant_Backtest_Submission_Modular.xlsx`**: **Final Report**. Contains the Executive Summary, Tradesheet, Daily P&L, NAV/Drawdown data, and segmented performance statistics (Expiry vs. Non-Expiry day breakdown).
+- **`README.md`**: This overview.
+
+##  Key Performance Summary (2023 Backtest)
+| Metric | Value | 
+| :--- | :--- | 
+| **CAGR** | [Your Actual CAGR]% | 
+| **Max Drawdown** | [Your Actual Max Drawdown]% | 
+| **Win Rate** | [Your Actual Win Rate]% | 
+
+##  Setup and Execution
+
+1.  **Dependencies:** Requires `pandas`, `numpy`, and `openpyxl` (for Excel output).
+2.  **Data:** The strategy requires historical [Index Name] options data (not included in this repository due to file size).
+3.  **Run:** Execute the `backtest_python_code.py` script. It will generate the final Excel report.
