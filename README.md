@@ -11,6 +11,10 @@ To implement a robust, auditable backtest of a short options strategy on [Index 
 - **`Harshal_Quant_Backtest_Submission_Modular.xlsx`**: **Final Report**. Contains the Executive Summary, Tradesheet, Daily P&L, NAV/Drawdown data, and segmented performance statistics (Expiry vs. Non-Expiry day breakdown).
 - **`README.md`**: This overview.
 
+## One year of options and index data for Banknifty has been attached to conduct the backtest.
+
+**Google drive link:** https://drive.google.com/file/d/1Vc-_sg_zQmda0aYk8kC0HmMauYbMeP2F/view?usp=sharing
+
 ##  Key Performance Summary (2023 Backtest)
 | Metric | Value | Implication |
 | :--- | :--- | :--- |
